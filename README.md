@@ -1,2 +1,2 @@
 # author_ber5
-Resent mecesseges
+traveling to US
