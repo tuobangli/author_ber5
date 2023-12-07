@@ -1,3 +1,3 @@
 # author_ber5
-Submit MM invite 30 Berkeley professors as coauthors
+Submit MM invite Berkeley professors as coauthors (according to read tomorrow)
 
