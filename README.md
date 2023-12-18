@@ -1,3 +1,3 @@
 # author_ber5
-Submit MM invite Berkeley and Technion and GT professors as coauthors (according to read today)  
+MM invite professors as coauthors (according to read today, first invite Berkeley, and the send invitations to them)  
 
