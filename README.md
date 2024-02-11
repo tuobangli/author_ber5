@@ -1,5 +1,5 @@
 # author_ber5
-MM invite professors as coauthors (according to read tomorrow)
+MM reinvite professors as coauthors
 
 
 
