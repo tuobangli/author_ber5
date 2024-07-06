@@ -1,6 +1,5 @@
 # author_ber5
-MM reinvite professors as coauthors, all professors read previously.
-
+Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing Registration 2024
 
 
 
